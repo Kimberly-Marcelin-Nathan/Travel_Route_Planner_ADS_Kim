@@ -1,7 +1,7 @@
 import math
 import random
 import streamlit as st
-import openai
+#import openai
 import re
 import pandas as pd
 import streamlit as st
@@ -10,26 +10,26 @@ import requests
 import networkx as nx
 import matplotlib.pyplot as plt
 
-from config import OPENAI_API_KEY
-openai.api_key = OPENAI_API_KEY
+#from config import OPENAI_API_KEY
+#openai.api_key = OPENAI_API_KEY
 
 
 
-def generate_distance(locations):
+##def generate_distance(locations):
     # Generate a prompt for GPT-3.5
-    prompt = "Calculate the total distance between the following locations:\n"
-    for i in range(len(locations) - 1):
-        for j in range(i + 1, len(locations)):
-            prompt += f"{locations[i]} {locations[j]}\n"
+  #  prompt = "Calculate the total distance between the following locations:\n"
+   # for i in range(len(locations) - 1):
+    #    for j in range(i + 1, len(locations)):
+     #       prompt += f"{locations[i]} {locations[j]}\n"
 
     # Call GPT-3.5 to generate the distances
-    response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo-1106",
-        messages=[
-            {"role": "system", "content": prompt}
-        ]
-    )
-    return response['choices'][0]['message']['content'].strip()
+    #response = openai.ChatCompletion.create(
+     #   model="gpt-3.5-turbo-1106",
+      #  messages=[
+       #     {"role": "system", "content": prompt}
+        #]
+   # )
+    #return response['choices'][0]['message']['content'].strip()
 
 
 st.set_page_config(
