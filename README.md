@@ -1,2 +1,11 @@
-# Travel_Route_Planner_ADS
-This "Travel Route Planner" project optimizes travel plan within budget and distance constraints. Using Knapsack &amp; Greedy Method for budget allocation and dynamic programming for TSP, it offers efficient routes. With geocoding &amp; mapping, it tailors plans for satisfying travel experiences.
+# Travel_Route_Planner_ADS | Kimberly-Marcelin-Nathan
+
+The "Travel Route Planner" project presents a comprehensive solution for optimizing travel itineraries based on budget constraints and geographical distances. 
+Leveraging advanced algorithms such as the Knapsack problem using the Greedy Method and dynamic programming for the Traveling Salesman Problem (TSP), 
+the application aims to provide users with efficient and optimal travel routes. By integrating these algorithms, the project offers a streamlined user experience, 
+allowing users to input their preferences and constraints easily. The application provides accurate representations of locations and routes through geocoding and mapping functionalities. 
+Overall, the "Travel Route Planner" facilitates cost-effective travel planning tailored to individual needs, ensuring a satisfying and memorable travel experience
+
+# ADS Project | Travel Route Planner | Streamlit App Link | Journey Optimization with Knapsack & Traveling Salesman Techniques
+
+🔗https://kimberly-marcelin-nathan-travel-route-planner-app-ads.streamlit.app/
