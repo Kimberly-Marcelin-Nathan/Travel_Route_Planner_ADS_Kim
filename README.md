@@ -14,5 +14,5 @@ Overall, the "Travel Route Planner" facilitates cost-effective travel planning t
 # Project Collaboration
 
 *Journey Optimization with Knapsack & Traveling Salesman Techniques - Kimberly Marcelin Nathan | OpenAI Integration - Tanushree Rajan*
-🔗https://www.linkedin.com/in/kimberlymarcelinnathan
+🔗https://www.linkedin.com/in/kimberlymarcelinnathan \
 🔗https://in.linkedin.com/in/tanushree-rajan-97519420b
