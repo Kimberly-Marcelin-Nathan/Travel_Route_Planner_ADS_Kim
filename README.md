@@ -8,7 +8,7 @@ Overall, the "Travel Route Planner" facilitates cost-effective travel planning t
 
 # ADS Project | Travel Route Planner | Streamlit App Link
 
-🔗https://kimberly-marcelin-nathan-travel-route-planner-app-ads.streamlit.app/ \
+🔗https://kimberly-marcelin-nathan-travel-route-planner-app-ads.streamlit.app/ 
 
 
 # Project Collaboration
