@@ -8,8 +8,8 @@ Overall, the "Travel Route Planner" facilitates cost-effective travel planning t
 
 # ADS Project | Travel Route Planner | Streamlit App Link | Journey Optimization with Knapsack & Traveling Salesman Techniques
 
-🔗https://kimberly-marcelin-nathan-travel-route-planner-app-ads.streamlit.app/
-&amp 🔗https://www.linkedin.com/in/kimberlymarcelinnathan
+🔗https://kimberly-marcelin-nathan-travel-route-planner-app-ads.streamlit.app/ \
+🔗https://www.linkedin.com/in/kimberlymarcelinnathan
 
 # OpenAI Integration | Tanushree Rajan
 
